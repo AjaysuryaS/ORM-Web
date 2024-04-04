@@ -72,8 +72,9 @@ admin.site.register(Book,BookAdmin)
 
 ## OUTPUT
 
-![Screenshot (19)](https://github.com/kanmanikannu/ORM/assets/114866367/032897a8-fc24-4db6-9234-6a1c548d65e9)
-![Screenshot (18)](https://github.com/kanmanikannu/ORM/assets/114866367/6a550c10-4976-41a6-b37b-3e67894c90c0)
+![Screenshot 2024-04-04 214753](https://github.com/AjaysuryaS/ORM-Web/assets/114158396/4be1265c-7df0-4594-ae19-2f20b25d049c)
+![Screenshot 2024-04-04 214632](https://github.com/AjaysuryaS/ORM-Web/assets/114158396/5f11593f-98a5-4cbc-84f1-68fa74999010)
+
 
 
 
